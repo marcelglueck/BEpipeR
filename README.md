@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="https://github.com/marcelglueck/BEpipeR/blob/main/BE_pipeR_logo_V001.png">
+<img align="right" width="200" height="200" src="https://github.com/marcelglueck/BEpipeR/blob/main/BE_pipeR_logo_V002.png">
 
 # BEpipeR: a user-friendly, flexible, scalable, and easily expanded pipeline for a streamlined processing of biotic and abiotic data in R  
 
