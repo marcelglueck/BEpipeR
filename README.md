@@ -13,8 +13,8 @@ inform you about changes to the pipeline incl. future plans, newly-implemented f
 and bugs/issues found and how to mitigate them.
 
 ## Background and motivation
-The wealth of biotic and abiotic environmental data generated in the Biodiversity
-Exploratories continues to grow steadily, and so does the effort of implementing always the
+The wealth of biotic and abiotic environmental data generated in the [Biodiversity
+Exploratories](https://www.biodiversity-exploratories.de/en/) continues to [grow steadily](https://www.bexis.uni-jena.de/), and so does the effort of implementing always the
 newest data into our statistical frameworks. Many BE projects restrict their analyses to a
 handful of frequently used data sets, neglecting the wealth of information at their fingertips.
 Oftentimes, this might be caused by the need for stringent quality control and (pre-)processing
@@ -29,7 +29,7 @@ as the generated data can be used as input in any type of environmental associat
 - **Save time**: No need to process the data sets yourself. Dive right into you analyses.
 - **Harness potential**: Why restricting your analyses to a few often-used data sets when you could do better in unravelling complex patterns?
 - **Flexibility**: You prefer subsetting for focal variables yourself? Great! Just use the complete composite and perform variable selection to your liking.
-- **Improved participation:** By using this data set, you help to make the hard work of many BE scientists visible.
+- **Improved participation:** By using one of the data sets produced here, you help to make the hard work of many BE scientists visible.
 
 ## The pipeline's main features
 - **Easy to use**: All important parameters are parsed through xlsx/csv parameters files.
@@ -50,12 +50,15 @@ Also, column headers feature dataset IDs to allow users to select environmental
 variables by their origin.
 
 ## What does the current version of the pipeline do?
-1. **Data preparation and wrangling:** Template creation, correction of suspicious (NA) values, sub-setting, fallback to more basal (taxonomic) level, data reshaping, normalization by variable (for e.g. sampling effort)
+1. **Data preparation and wrangling:** Template creation, correction of suspicious (NA) values, sub-setting, fallbacks to more basal (taxonomic) levels, data reshaping, normalization by variable (for e.g. sampling effort)
 2. **Quality control:** Multi-mode flagging and removal of putative erroneous values
 3. **Data aggregation:** Both within and across data sets (mean, median, SD, MAD); processing of yearly climate aggregates (incl. the removal of poorly-supported data points)
 4. **Diversity indices:** Normalization by repeated rarefaction; calculating species richness, Simpson/Shannon-Wiener/Margalef/Menhinick index, ...)
 5. **Post-processing:** Data joining, quality control, variables selection by variance inflation factor (VIF) analyses with thresholds from two to ten
 6. **Data export:** Whole composite, all VIF-produced subsets
+
+## FAQ
+TBD
 
 ## Technical notes
 ### Why rarefaction is used for normalization
