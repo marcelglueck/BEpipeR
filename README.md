@@ -12,7 +12,7 @@ If you are interested in up-to-date news, you have come to the right place. Here
 inform you about changes to the pipeline incl. future plans, newly-implemented features, 
 and bugs/issues found and how to mitigate them.
 
-## Abstract
+## Background and motivation
 The wealth of biotic and abiotic environmental data generated in the Biodiversity
 Exploratories continues to grow steadily, and so does the effort of implementing always the
 newest data into our statistical frameworks. Many BE projects restrict their analyses to a
