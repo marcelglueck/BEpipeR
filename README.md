@@ -52,7 +52,7 @@ Also, column headers feature dataset IDs to allow users to select environmental
 variables by their origin.
 
 ## What does the current version of the pipeline do?
-1. **Data preparation and wrangling:** Template creation, correction of suspicious (NA) values, sub-setting, fallbacks to more basal (taxonomic) levels, data reshaping, normalization by variable (for e.g. sampling effort)
+1. **Data preparation and wrangling:** Template creation, plot locations harmonization, correction of suspicious (NA) values, sub-setting, fallbacks to more basal (taxonomic) levels, data reshaping, normalization by variable (for e.g. sampling effort)
 2. **Quality control:** Multi-mode flagging and removal of putative erroneous values
 3. **Data aggregation:** Both within and across data sets (mean, median, SD, MAD); processing of yearly climate aggregates (incl. the removal of poorly-supported data points)
 4. **Diversity indices:** Normalization by repeated rarefaction; calculating species richness, Simpson/Shannon-Wiener/Margalef/Menhinick index, ...)
@@ -60,7 +60,10 @@ variables by their origin.
 6. **Data export:** Whole composite, all VIF-produced subsets
 
 ## FAQ
-TBD
+### What to do if you find suspicious values in the data?
+First, please ensure that the suspicious value found is not a false positive. The pipeline assists in finding and excluding suspicious values fairly extensively. Accordingly low should be their prevalence in the final data sets. If, after checking, you are still sure that you found such a value, please bring this to attention of [Marcel Glück](https://orcid.org/0000-0002-9027-6750) as soon as possible.
+### When will the pipeline be released to BE members?
+We do not know yet. Currently, we are investigating possible licenses to prevent its un-attributed use. If progress is made in this regard, you will be informed on this page's 'Update' section and through the BE-intern mailing list.
 
 ## Technical notes
 ### Why rarefaction is used for normalization
