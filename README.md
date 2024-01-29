@@ -57,7 +57,7 @@ variables by their origin.
 3. **Data aggregation:** Both within and across data sets (mean, median, SD, MAD); processing of yearly climate aggregates (incl. the removal of poorly-supported data points)
 4. **Diversity indices:** Normalization by repeated rarefaction; calculating species richness, Simpson/Shannon-Wiener/Margalef/Menhinick index, ...)
 5. **Post-processing:** Data joining, quality control, variables selection by variance inflation factor (VIF) analyses with thresholds from two to ten
-6. **Data export:** Whole composite, all VIF-produced subsets
+6. **Data export and metadata compilation:** Exporting whole composite and all VIF-produced subsets; fetching metadata to the variables produced
 
 ## FAQ
 ### What to do if you find suspicious values in the data?
