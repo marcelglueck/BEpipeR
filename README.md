@@ -3,7 +3,7 @@
 # BEpipeR: a user-friendly, flexible, scalable, and easily expanded pipeline for a streamlined processing of biotic and abiotic data in R  
 
 ## People involved
-- [Marcel Glück](https://orcid.org/0000-0002-9027-6750) (PI, conceptualization, coding, implementation, maintenance)
+- [Marcel Glück](https://orcid.org/0000-0002-9027-6750) (PI, conceptualization, coding, implementation, maintenance, documentation)
 - [Henri Thomassen](https://orcid.org/0000-0002-9403-1291) (conzeptualization)
 - [Oliver Bossdorf](https://orcid.org/0000-0001-7504-6511) (conzeptualization)
 
