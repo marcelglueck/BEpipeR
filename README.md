@@ -31,7 +31,7 @@ This project is a registered BE synthesis project.
 - **Save time**: No need to process the data sets yourself. Dive right into your analyses.
 - **Harness potential**: Why restricting your analyses to a few often-used data sets when you could do better in unravelling complex patterns?
 - **Flexibility**: You prefer subsetting for focal variables yourself? Great! Just use the quality-controlled complete composite and perform variables selection to your liking.
-- **Improved participation:** By using one of the data sets produced here, you contribute to making the hard work of many BE scientists visible.
+- **Improve participation:** By using one of the data sets produced here, you contribute to making the hard work of many BE scientists visible.
 
 ## The pipeline's main features
 - **Easy to use**: All important parameters are parsed through xlsx/csv parameters files.
