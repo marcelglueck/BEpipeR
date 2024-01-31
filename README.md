@@ -61,9 +61,9 @@ variables by their origin.
 
 ## FAQ
 ### What to do if you found an undesired behaviour/bug in the pipeline?
-First, please make sure that the potential issue you found is valid by inspecting the data produced by this section of the code carefully. If, after thorough inspection, you are still sure that you found an issue warranting correction, please bring this as soon as possible to the attention of [Marcel Glück](https://orcid.org/0000-0002-9027-6750) using the bug report template.
+First, please make sure that the potential issue you found is valid by inspecting the data produced by this section of the code carefully. If, after thorough inspection, you are still sure that you found an issue warranting correction, please bring this as soon as possible to the attention of [Marcel Glück](https://orcid.org/0000-0002-9027-6750) using the [bug report template](https://github.com/marcelglueck/BEpipeR/blob/main/issues_template_V001.txt).
 ### What to do if you find suspicious values in the data?
-First, please ensure that the suspicious value found is not a false positive. The pipeline assists in finding and excluding suspicious values fairly extensively. Accordingly low should be their prevalence in the final data sets. If, after checking, you are still sure that you found such a value, please bring this to attention of Marcel Glück as soon as possible using the bug report template.
+First, please ensure that the suspicious value found is not a false positive. The pipeline assists in finding and excluding suspicious values fairly extensively. Accordingly low should be their prevalence in the final data sets. If, after checking, you are still sure that you found such a value, please bring this to attention of Marcel Glück as soon as possible using the [bug report template](https://github.com/marcelglueck/BEpipeR/blob/main/issues_template_V001.txt).
 ### When will the pipeline be released to BE members?
 We do not know yet. Currently, we are investigating possible licenses to prevent its un-attributed use. If progress is made in this regard, you will be informed on this page's 'Update' section and through the BE-intern mailing list.
 ### I disagree on statistical approaches chosen (e.g. normalization by repeated rarefaction). What should I do?
