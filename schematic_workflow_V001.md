@@ -1,3 +1,5 @@
+**This workflow is under construction. Take with a grain of salt.**
+
 # How to add new data sets to the datasets_summary file?
 1. Download the data set and de-compress in the working copy directory of the project. Data stored there will not be used by the pipeline but serves as a go-to location for inspecting the data yourself.
 2. Copy the csv data file to the project's source directory. From there, it will be copied to the project's input directory at the start of each pipeline run.
