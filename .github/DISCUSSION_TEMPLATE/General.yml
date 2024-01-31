@@ -4,19 +4,18 @@ body:
   - type: textarea
     id: improvements
     attributes:
-      label: Your content
-      description: "Suggestions, ideas, opinions"
+      label: Your contribution
+      description: "Suggestions, ideas, opinions go here ..."
       value: 
       render: bash
     validations:
       required: true
   - type: checkboxes
     attributes:
-      label: Check that box!
+      label: Required
       options:
-        - label: This one!
+        - label: I am not posting any code of the pipeline.
           required: true
-        - label: I won't stop you if you check this one, too
   - type: markdown
     attributes:
       value: |
