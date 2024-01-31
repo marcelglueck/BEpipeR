@@ -18,3 +18,5 @@ body:
           required: true
         - label: I promise to keep the discussion civil.
           required: true
+          - label: I am adhering to any potential further points listed [her](https://github.com/marcelglueck/BEpipeR/discussions/1).
+          required: true
