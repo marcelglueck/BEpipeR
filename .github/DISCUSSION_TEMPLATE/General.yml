@@ -23,13 +23,6 @@ body:
       value: |
         ## Markdown header
         And some more markdown
-  - type: input
-    id: has-id
-    attributes:
-      label: Suggestions
-      description: A description about suggestions to help you
-    validations:
-      required: true
   - type: dropdown
     id: download
     attributes:
