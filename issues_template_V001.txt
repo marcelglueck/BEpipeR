@@ -1,0 +1,28 @@
+#### BEpipeR bug report ####
+
+Checks performed (please tick)
+- [ ] I have performed additional checks and inspected the data carefully to ensure that the issue found is genuine.
+
+-------------------------------------------
+
+Your BE project acronym:
+<Your information>
+
+The BEpipeR version you are referring to:
+<Your information>
+
+Affected lines in the script (e.g. 981-989):
+<Your information>
+
+A copy of the code snippet you are referring to:
+<Your information>
+
+Expected code output:
+<Your information>
+
+Observed code output:
+<Your information>
+
+Description of the error:
+<Your information>
+
