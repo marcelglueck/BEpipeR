@@ -11,6 +11,9 @@ Your BE project acronym:
 The BEpipeR version you are referring to:
 <Your information>
 
+If your issue concerns one or more specific data set(s). Please provide their full ID(s), separeted by comma, here:
+<Your information>
+
 Affected lines in the script (e.g. 981-989):
 <Your information>
 
