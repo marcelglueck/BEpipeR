@@ -66,6 +66,9 @@ First, please make sure that the potential issue you found is valid by inspectin
 First, please ensure that the suspicious value found is not a false positive. The pipeline assists in finding and excluding suspicious values fairly extensively. Accordingly low should be their prevalence in the final data sets. If, after checking, you are still sure that you found such a value, please bring this to attention of Marcel Glück as soon as possible using the [bug report template](https://github.com/marcelglueck/BEpipeR/blob/main/issues_template_V001.txt).
 ### When will the pipeline be released to BE members?
 We do not know yet. Currently, we are investigating possible licenses to prevent its un-attributed use. If progress is made in this regard, you will be informed on this page's 'Update' section and through the BE-intern mailing list.
+### Where can I find the manual?
+We do not provide one, because this would be way beyond the scope of this project. The data already entered in the data sets summary file in combination with the file's dictionary should allow you to understand the encoding pretty intuitively. Also, in the script, we provide comments on the reasoning and each step performed throughout. If you want to adopt this framework for your own purposes by adding data sets, see this brief schematic workflow.
+
 ### I disagree on statistical approaches chosen (e.g. normalization by repeated rarefaction). What should I do?
 Nothing in biology is black or white. Throughout the pipeline, we provide the reasoning on the decisions taken. If you still disagree, the composite data set might be a good starting point for you. Go from there, subset, and perform variables selection to your liking. We are always open for constructive criticism, resulting in a more compelling processing of the data. Feel free to [spark a conversation](https://github.com/marcelglueck/BEpipeR/discussions).
 
