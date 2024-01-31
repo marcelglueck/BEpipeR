@@ -67,7 +67,7 @@ First, please ensure that the suspicious value found is not a false positive. Th
 ### When will the pipeline be released to BE members?
 We do not know yet. Currently, we are investigating possible licenses to prevent its un-attributed use. If progress is made in this regard, you will be informed on this page's 'Update' section and through the BE-intern mailing list.
 ### I disagree on statistical approaches chosen (e.g. normalization by repeated rarefaction). What should I do?
-Nothing in biology is black or white. Throughout the pipeline, we provide the reasoning on the decisions taken. If you still disagree, the composite data set might be a good starting point for you. Go from there, subset, and perform variables selection to your liking. We are always open for constructive criticism, resulting in a more compelling processing of the data. Feel free to spark a conversation.
+Nothing in biology is black or white. Throughout the pipeline, we provide the reasoning on the decisions taken. If you still disagree, the composite data set might be a good starting point for you. Go from there, subset, and perform variables selection to your liking. We are always open for constructive criticism, resulting in a more compelling processing of the data. Feel free to [spark a conversation](https://github.com/marcelglueck/BEpipeR/discussions).
 
 ## Helpers
 You would like to dive deeper into the composite data set. Nice! Here a few functions that 
