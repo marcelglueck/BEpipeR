@@ -18,8 +18,3 @@ body:
           required: true
         - label: I promise to keep the discussion civil.
           required: true
-  - type: markdown
-    attributes:
-      value: |
-        ### The thrilling conclusion
-        _to our template_
