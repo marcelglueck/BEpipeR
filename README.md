@@ -68,9 +68,10 @@ First, please ensure that the suspicious value found is not a false positive. Th
 We do not know yet. Currently, we are investigating possible licenses to prevent its un-attributed use. If progress is made in this regard, you will be informed on this page's 'Update' section and through the BE-intern mailing list.
 ### Where can I find the manual?
 We do not provide one, because this would be way beyond the scope of this project. The data already entered in the data sets summary file in combination with the file's dictionary should allow you to understand the encoding pretty intuitively. Also, in the script, we provide comments on the reasoning and each step performed throughout. If you want to adopt this framework for your own purposes by adding data sets, see this brief [schematic workflow](https://github.com/marcelglueck/BEpipeR/blob/main/schematic_workflow_V001.md).
-
 ### I disagree on statistical approaches chosen (e.g. normalization by repeated rarefaction). What should I do?
 Nothing in biology is black or white. Throughout the pipeline, we provide the reasoning on the decisions taken. If you still disagree, the composite data set might be a good starting point for you. Go from there, subset, and perform variables selection to your liking. We are always open for constructive criticism, resulting in a more compelling processing of the data. Feel free to [spark a conversation](https://github.com/marcelglueck/BEpipeR/discussions).
+### Why do I have to enter metadata information to the datasets summary file manually? Could this not be done by pulling this information from Bexis?
+Indeed, most of the metadata might be pulled from Bexis without much of a struggle. However, from my experience, data and metadata sometimes do not match. By filling out these fields yourself, you are being forced to inspect the metadata, which contain important information, thoroughly. This should aid your understanding of the data set.
 
 ## Helpers
 You would like to dive deeper into the composite data set. Nice! Here a few functions that 
