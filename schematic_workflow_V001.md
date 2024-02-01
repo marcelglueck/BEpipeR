@@ -1,5 +1,5 @@
 <p align="center">
-⚠️**This workflow is under construction. Take with a grain of salt.**⚠️
+⚠️This workflow is under construction. Take with a grain of salt.⚠️
 </p>
 
 # How to add new data sets to the datasets_summary file?
