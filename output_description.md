@@ -11,6 +11,9 @@ For each data set that undergoes rarefaction, three files are exported to the pr
 - **FQC_env_var_composite_complete.csv:** The quality-controlled composite, after excluding columns that have non-numeric content, are mono-value or feature NA/NaN/Inf. No variables selection was performed on this output. Use this file if you would like to perform variables selection yourself or subset for the variables you are most interested in by dataset ID.
 
 ## Variables selection
+- **VS_pearson_corrMat.csv:** A matrix with pairwise Pearson's r for all variables in FQC_env_var_composite_complete.csv.
+- **VS_pearson_pVals.csv:** A matrix holding the p-value for each pairwise comparison specified. 
+- **VS_pearson_numbObs.csv:** A matrix holding the number of observations that are the basis for calculating VS_pearson_corrMat.csv and VS_pearson_pVals.csv.
 - **VS_VIF\{VIF_threshold}\_VS_analysed_vars:** All variables used in variables selection for the VIF threshold specified.
 - **VS_VIF\{VIF_threshold}\_VS_retained_vars_scores.csv:** Variables retained and their VIF scores after excluding cross-correlated variables by a stepwise variance inflation factor analysis with the VIF threshold specified. 
 - **VS_VIF\{VIF_threshold}\_VS_composite.csv:** FQC_env_var_composite_complete.csv after excluding all variables deemed cross-correlated (i.e. only the variables listed in VS_VIF\{VIF_threshold}\_VS_retained_vars_scores.csv are featured here).
