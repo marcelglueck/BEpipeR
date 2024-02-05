@@ -14,6 +14,8 @@ body:
     attributes:
       label: Required
       options:
+        - label: I am not reporting an issue ([how to report issues](https://github.com/marcelglueck/BEpipeR?tab=readme-ov-file#faq).
+          required: true
         - label: I promise to keep the discussion civil.
           required: true
         - label: I am adhering to any potential additional points listed [here](https://github.com/marcelglueck/BEpipeR/discussions/1).
