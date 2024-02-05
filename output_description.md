@@ -1,6 +1,9 @@
 # What output does the pipeline produce?
 Placeholders are in in parentheses.
 
+## Processed data sets
+At the beginning of each pipeline run, both 'Input' and 'Output' directories are expunged. Subsequently, all data sets stored in the 'Source' directory are copied to 'Input' from where they are imported for processing. Following each processing step, the data sets that were modified in the respective step are exported to the 'Input' directory and datasets_table in R (a working copy of {date}\_datasets_summary_V{version}.csv) is updated.
+
 ## Rarefaction
 For each data set that undergoes rarefaction, three files are exported to the project's 'Output' directory:
 - **{datasetID}\_rarefaction_curves_subsample\_{subsample_size}.png:** Rarefaction curves for each plot. Rarefied diversity is visualized by horizontal lines. The vertical line marks the subsample size selected, which is also featured in the file's name.
