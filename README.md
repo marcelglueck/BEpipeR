@@ -80,7 +80,7 @@ You would like to dive deeper into the composite data set. Nice! Here a few func
 might come in handy.
 
 ### Subsetting for variables originating from specific data sets
-```
+```R
 # Specify your data sets of interest by BaseID and subset for composite columns
 # identified based on partial matches
 selected_data_sets <- c("14686", "14448", "19366")
