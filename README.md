@@ -79,11 +79,15 @@ Indeed, most of the metadata might be pulled from Bexis without much of a strugg
 You would like to dive deeper into the composite data set. Nice! Here a few functions that 
 might come in handy.
 
-### Subsetting for variables of interest
+### Subsetting for variables originating from specific data sets
 ```
-# Assuming the composite is stored in 'Composite'
-COMD_composite <-
-  VS_composite[, !(names(VS_composite) %in% names(plotIDs_template)), drop = FALSE]
+# Specify your data sets of interest by BaseID and subset for composite columns
+# identified based on partial matches
+selected_data_sets <- c("14686", "14448", "19366")
+selected_from_composite <-
+  composite[, grep(paste(selected_data_sets, collapse = "|"),
+                       names(composite),
+                       value = TRUE), drop = FALSE]
 ```
 
 
