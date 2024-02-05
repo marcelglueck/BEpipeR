@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_logo_V003.png">
+<img align="right" width="200" height="200" src="https://github.com/marcelglueck/BEpipeR/blob/e902703f223bb39e01afaa7ae16f511b60ef39ca/BEpipeR_logo.png">
 
 # BEpipeR: a user-friendly, flexible, scalable, and easily expanded pipeline for a streamlined processing of biotic and abiotic data in R  
 
@@ -61,13 +61,13 @@ variables by their origin.
 
 ## FAQ
 ### What to do if you found an undesired behaviour/bug in the pipeline?
-First, please make sure that the potential issue you found is valid by inspecting the data produced by this section of the code carefully. If, after thorough inspection, you are still sure that you found an issue warranting correction, please bring this as soon as possible to the attention of [Marcel Glück](https://orcid.org/0000-0002-9027-6750) using the [bug report template](https://github.com/marcelglueck/BEpipeR/blob/main/issues_template_V001.txt).
+First, please make sure that the potential issue you found is valid by inspecting the data produced by this section of the code carefully. If, after thorough inspection, you are still sure that you found an issue warranting correction, please bring this as soon as possible to the attention of [Marcel Glück](https://orcid.org/0000-0002-9027-6750) using the [bug report template](https://github.com/marcelglueck/BEpipeR/blob/e902703f223bb39e01afaa7ae16f511b60ef39ca/issues_template.txt).
 ### What to do if you find suspicious values in the data?
-First, please ensure that the suspicious value found is not a false positive. The pipeline assists in finding and excluding suspicious values fairly extensively. Accordingly low should be their prevalence in the final data sets. If, after checking, you are still sure that you found such a value, please bring this to attention of Marcel Glück as soon as possible using the [bug report template](https://github.com/marcelglueck/BEpipeR/blob/main/issues_template_V001.txt).
+First, please ensure that the suspicious value found is not a false positive. The pipeline assists in finding and excluding suspicious values fairly extensively. Accordingly low should be their prevalence in the final data sets. If, after checking, you are still sure that you found such a value, please bring this to attention of Marcel Glück as soon as possible using the [bug report template](https://github.com/marcelglueck/BEpipeR/blob/e902703f223bb39e01afaa7ae16f511b60ef39ca/issues_template.txt).
 ### When will the pipeline be released to BE members?
 We do not know yet. Currently, we are investigating possible licenses to prevent its un-attributed use. If progress is made in this regard, you will be informed on this page's 'Update' section and through the BE-intern mailing list.
 ### Where can I find the manual?
-We do not provide a comprehensive manual yet. The data already entered in the data sets summary file in combination with the file's dictionary should allow you to understand the encoding pretty intuitively. Also, in the script, we provide comments on the reasoning and each step performed throughout. If you want to adopt this framework for your own purposes by adding data sets, see this brief [schematic workflow](https://github.com/marcelglueck/BEpipeR/blob/main/schematic_workflow_V001.md).
+We do not provide a comprehensive manual yet. The data already entered in the data sets summary file in combination with the file's dictionary should allow you to understand the encoding pretty intuitively. Also, in the script, we provide comments on the reasoning and each step performed throughout. If you want to adopt this framework for your own purposes by adding data sets, see this brief [schematic workflow](https://github.com/marcelglueck/BEpipeR/blob/e902703f223bb39e01afaa7ae16f511b60ef39ca/schematic_workflow.md).
 ### Can I already use this pipeline to process grassland data without any modifications?
 Unfortunately, not yet, but this feature will be implemented swiftly after the initial release of the pipeline. In the meantime, you can already start inspecting the grassland data sets you would like to include and enter this information in the data sets summary file. After we have implemented this feature, you will be able to toggle between grassland and forest mode easily.
 ### I disagree on statistical approaches chosen (e.g. normalization by repeated rarefaction). What should I do?
