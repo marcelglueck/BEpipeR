@@ -14,8 +14,6 @@ body:
     attributes:
       label: Required
       options:
-        - label: I am aware that posting any code of the pipeline is **NOT permitted**. I am adhering to this rule.
-          required: true
         - label: I promise to keep the discussion civil.
           required: true
         - label: I am adhering to any potential additional points listed [here](https://github.com/marcelglueck/BEpipeR/discussions/1).
