@@ -1,6 +1,6 @@
 # Step-by-step: Setting up the pipeline's reproducible environment
 
-**Important:** Do not modify the files provided. If you think you might have modified them unintentionally, download the pipeline files anew.
+**Important:** Do not modify the files/directories provided. This might break the pipeline. If you think you might have modified them unintentionally, download the pipeline files anew.
 
 1. Download the desired pipeline release from [here](https://github.com/marcelglueck/BEpipeR/releases).
 2. Unzip the downloaded and compressed pipeline files.
