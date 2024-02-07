@@ -18,4 +18,4 @@ If you do not have the required version of R installed ...
 10. Following its download, it will prompt that packages recorded in the lockfile are not installed on your system.
 11. Type ```renv::restore()```; confirm the prompted dialog with "y".
 12. Renv will download and install all required packages.
-13. If restoring all packages was successful, you are ready to go 🥳
+13. After all packages have been restored successfully, you are ready to go 🥳
