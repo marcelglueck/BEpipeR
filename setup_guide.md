@@ -4,7 +4,7 @@
 
 1. Download the desired pipeline release from [here](https://github.com/marcelglueck/BEpipeR/releases).
 2. Unzip the downloaded and compressed pipeline files.
-3. Open the provided renv.lock file. If you do not see it, set up your operating system in a way that displays hidden file.
+3. Open the provided renv.lock file. If you do not see it, configure your operating system to display hidden files.
 4. At the very top of the file, the required R version is specified.
 If you do not have the required version of R installed ...
    1.  Download the required version from [here](https://cran.r-project.org/).
