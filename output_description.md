@@ -1,5 +1,5 @@
 # What output does the pipeline produce?
-Placeholders are in in parentheses.
+Placeholders are in parentheses.
 
 ## Processed data sets
 At the beginning of each pipeline run, both 'Input' and 'Output' directories are expunged. Subsequently, all data sets stored in the 'Source' directory are copied to 'Input' from where they are imported for processing. Following each processing step, the data sets that were modified in the respective step are exported to the 'Input' directory and datasets_table in R (a working copy of {date}\_datasets_summary_V{version}.csv) is updated.
