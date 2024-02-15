@@ -76,6 +76,10 @@ Unfortunately, not yet, but this feature will be implemented swiftly after the i
 Nothing in biology is black or white. Throughout the pipeline, we provide the reasoning on the decisions taken. If you still disagree, the composite data set might be a good starting point for you. Go from there, subset, and perform variables selection to your liking. We are always open for constructive criticism, resulting in a more compelling processing of the data. Feel free to [spark a conversation](https://github.com/marcelglueck/BEpipeR/discussions).
 ### Why do I have to enter metadata information to the datasets summary file manually? Could this not be done by pulling this information from Bexis?
 Indeed, most of the metadata might be pulled from Bexis without much of a struggle. However, from my experience, data and metadata sometimes do not match. By filling out these fields yourself, you are being forced to inspect the metadata, which contain important information, thoroughly. This should aid your understanding of the data set.
+### I want to use this pipeline for aggregating quite some data sets from the Biodiversity Exploratories. What do I need to consider?
+Keep in mind that if you are interested in working on more than a few data sets, for some reason, you need to have a synthesis proposal ... But do not panic. The corresponding Word template is only one page and your proposal does not undergo a formal approval process. Just state what the additional benefits of aggregating multiple data sets might be. You can find the template in Bexis.
+### How do I attribute this pipeline?
+This pipeline is citeable through its DOI. Please do so if you use the pipeline or parts of it in your own work. If you use data produced through this pipeline, please cite both the data set and this pipeline. For more information, see the pipeline's license file.
 
 ## Helpers
 <p align="center">
