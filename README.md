@@ -42,7 +42,7 @@ without writing a single line of code.
 - **Easy to deploy**: The pipeline can be deployed on many systems without modifications
 due to adhering to best practice approaches on reproducibility and interoperability.
 - **Easy to debug and feature-expand**: Compressed code, the processing through a few major
-loops, and consistent variables naming facilitate debugging and future feature implementations. In particular in the light of current high-paced discussions about good practice in data processing (e.g. [1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003531) and [2](https://journals.asm.org/doi/full/10.1128/msphere.00355-23)), a flexible framework that can accommodate insights with little effort is more than timely.
+loops, and consistent variables naming facilitate debugging and future feature implementations. In particular in the light of current high-paced discussions about good practice in data processing (e.g. [1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003531) and [2](https://journals.asm.org/doi/full/10.1128/msphere.00355-23)), a flexible framework that can accommodate novel insights with little effort is more than timely.
 - **Flexibility**: Regardless of whether you are interested in the complete data set, or
 subsets produced by variance inflation factor analyses, we have you covered.
 - **Speed**: Time-consuming steps are multi-threaded, reducing processing times.
