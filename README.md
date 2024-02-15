@@ -102,6 +102,9 @@ selected_from_composite <-
                        value = TRUE), drop = FALSE]
 ```
 
+## Acknowledgements
+People and/or institutions we are indebted to:
+- [Executive department on German Copyright Law](https://uni-tuebingen.de/en/facilities/university-library/publishing-research/publishing/copyright-law/), Tübingen University: For assisting in finding a suitable license for this pipeline.
 
 
 
