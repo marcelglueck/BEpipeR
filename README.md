@@ -14,6 +14,9 @@ If you are interested in up-to-date news, you have come to the right place. Here
 inform you about changes to the pipeline incl. future plans, newly-implemented features, 
 and bugs/issues found and how to mitigate them.
 
+### 20.02.2024
+- **BEpipeR v0.1.0 has been released!** 🥳 This release is already meant for productive purposes (i.e. it is fully functional with regards to forest plot data). We will fully implement support for grassland plots very soon. That release will also allow you to toggle between forest and grassland mode easily.
+
 ## Background and motivation
 The wealth of biotic and abiotic environmental data generated in the [Biodiversity
 Exploratories](https://www.biodiversity-exploratories.de/en/) continues to [grow steadily](https://www.bexis.uni-jena.de/ddm/publicsearch/), and so does the effort of implementing always the
