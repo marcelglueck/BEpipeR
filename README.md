@@ -84,7 +84,7 @@ Indeed, most of the metadata might be pulled from Bexis without much of a strugg
 ### I want to use this pipeline for aggregating quite some data sets from the Biodiversity Exploratories. What do I need to consider?
 Keep in mind that if you are interested in working on more than a few data sets, for some reason, you need to have a synthesis proposal ... But do not panic. The corresponding Word template is only one page and your proposal does not undergo a formal approval process. Just state what the additional benefits of aggregating multiple data sets might be. You can find the template in Bexis.
 ### How do I attribute this pipeline?
-This pipeline is citeable through its DOI. Please do so if you use the pipeline or parts of it in your own work. If you use data produced through this pipeline, please cite both the data set and this pipeline. For more information, see the pipeline's license file. If you share the code with someone else, please share the whole project, as separating the script from its license is not permitted.
+This pipeline is citeable through its DOI. Please do so if you use the pipeline or parts of it in your own work. If you use data produced through this pipeline, please cite both the data set and this pipeline. If you share the code with someone else, please share the whole project, as separating any project file from the license is not permitted. For more information, see the pipeline's license file. 
 ### I like this project and want to contribute. How to go about it?
 We appreciate your interest and are always happy to incorporate you and your unique skill set in this project. Please get in touch with [MG](https://orcid.org/0000-0002-9027-6750) for more information.
 
