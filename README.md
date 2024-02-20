@@ -3,6 +3,7 @@
 # BEpipeR: a user-friendly, flexible, scalable, and easily expanded pipeline for a streamlined processing of biotic and abiotic data in R  
 [![Github All Releases](https://img.shields.io/github/downloads/marcelglueck/BEpipeR/total.svg)]()
 ![GitHub Latest Release)](https://img.shields.io/github/v/release/marcelglueck/BEpipeR)
+[![DOI](https://zenodo.org/badge/734299181.svg)](https://zenodo.org/doi/10.5281/zenodo.10683384)
 
 ## People involved
 - [Marcel Glück](https://orcid.org/0000-0002-9027-6750) (PI, conceptualization, coding, implementation, maintenance, documentation)
