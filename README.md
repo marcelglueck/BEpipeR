@@ -11,10 +11,6 @@
 - [Oliver Bossdorf](https://orcid.org/0000-0001-7504-6511) (conzeptualization)
 
 ## Updates
-If you are interested in up-to-date news, you have come to the right place. Here we will
-inform you about changes to the pipeline incl. future plans, newly-implemented features, 
-and bugs/issues found and how to mitigate them.
-
 ### 20.02.2024
 - **BEpipeR v0.1.0 has been released!** 🥳 This release is already meant for productive purposes (i.e. it is fully functional with regards to forest plot data). We will fully implement support for grassland plots very soon. That release will also allow you to toggle between forest and grassland mode easily.
 
@@ -70,20 +66,14 @@ variables by their origin.
 First, please make sure that the potential issue you found is valid by inspecting the data produced by this section of the code carefully. If, after thorough inspection, you are still sure that you found an issue warranting correction, please bring this as soon as possible to the attention of [Marcel Glück](https://orcid.org/0000-0002-9027-6750) using the [bug report template](issues_template.txt).
 ### What to do if you find suspicious values in the data?
 First, please ensure that the suspicious value found is not a false positive. The pipeline assists in finding and excluding suspicious values fairly extensively. Accordingly low should be their prevalence in the final data sets. If, after checking, you are still sure that you found such a value, please bring this to attention of Marcel Glück as soon as possible using the [bug report template](issues_template.txt). For erroneous information in metadata, an informal email to MG suffices.
-### When will the pipeline be released to BE members?
-We do not know yet. Currently, we are investigating possible licenses to prevent its un-attributed use. If progress is made in this regard, you will be informed on this page's 'Update' section and through the BE-intern mailing list.
 ### How to set up the pipeline on my system?
 This pipeline uses the [renv package](https://rstudio.github.io/renv/articles/renv.html) to restore a reproducible environment we have set up. This means that the package installs all packages needed for an issue-free execution of the pipeline (i.e. the ones that were used to code this pipeline in the first place). For a step-by-step guide, please see [here](setup_guide.md). Installing all required packages like this is highly recommended and we will not try to troubleshoot potential issues caused by installing the required packages manually.
 ### Where can I find the manual?
 We do not provide a comprehensive manual yet. The data already entered in the data sets summary file in combination with the file's dictionary should allow you to understand the encoding pretty intuitively. Also, in the script, we provide comments on the reasoning and each step performed throughout. If you want to adopt this framework for your own purposes by adding data sets, see this brief [schematic workflow](schematic_workflow.md). You also might appreciate this [explanation](output_description.md) of the output produced by this pipeline.
 ### Can I already use this pipeline to process grassland data without any modifications?
 Unfortunately, not yet, but this feature will be implemented swiftly after the initial release of the pipeline. In the meantime, you can already start inspecting the grassland data sets you would like to include and enter this information in the data sets summary file. After we have implemented this feature, you will be able to toggle between grassland and forest mode easily.
-### I disagree on statistical approaches chosen (e.g. normalization by repeated rarefaction). What should I do?
-Nothing in biology is [black](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003531) or [white](https://journals.asm.org/doi/full/10.1128/msphere.00355-23). Throughout the pipeline, we provide the reasoning on the decisions taken. If you still disagree, the composite data set might be a good starting point for you. Go from there, subset, and perform variables selection to your liking. We are always open for constructive criticism, resulting in a more compelling processing of the data. Feel free to [spark a conversation](https://github.com/marcelglueck/BEpipeR/discussions).
-### Why do I have to enter metadata information to the datasets summary file manually? Could this not be done by pulling this information from Bexis?
-Indeed, most of the metadata might be pulled from Bexis without much of a struggle. However, from my experience, data and metadata sometimes do not match. By filling out these fields yourself, you are being forced to inspect the metadata, which contain important information, thoroughly. This should aid your understanding of the data set.
 ### I want to use this pipeline for aggregating quite some data sets from the Biodiversity Exploratories. What do I need to consider?
-Keep in mind that if you are interested in working on more than a few data sets, for some reason, you need to have a synthesis proposal ... But do not panic. The corresponding Word template is only one page and your proposal does not undergo a formal approval process. Just state what the additional benefits of aggregating multiple data sets might be. You can find the template in Bexis.
+Keep in mind that if you are interested in working on data sets from more than three projects, you need to have a synthesis proposal ... But do not panic. The corresponding Word template is only one page and your proposal does not undergo a formal approval process. Just state what the additional benefits of aggregating multiple data sets might be. You can find the template in Bexis.
 ### How do I attribute this pipeline?
 This pipeline is citeable through its DOI (see badges directly beneath the header of this page). Please do so if you use the pipeline or parts of it in your own work. If you use data produced through this pipeline, please cite both the data set and this pipeline. If you share the code with someone else, please share the whole project, as separating any project file from the license is not permitted. For more information, see the pipeline's license file. 
 ### I like this project and want to contribute. How to go about it?
