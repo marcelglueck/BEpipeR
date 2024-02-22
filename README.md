@@ -10,6 +10,8 @@
 - [Henri Thomassen](https://orcid.org/0000-0002-9403-1291) (conzeptualization)
 - [Oliver Bossdorf](https://orcid.org/0000-0001-7504-6511) (conzeptualization)
 
+**You are interested in joining? Get in touch with us!**
+
 ## Updates
 ### 20.02.2024
 - **BEpipeR v0.1.0 has been released!** 🥳 This release is already meant for productive purposes (i.e. it is fully functional with regards to forest plot data). We will fully implement support for grassland plots very soon. That release will also allow you to toggle between forest and grassland mode easily.
@@ -60,8 +62,6 @@ Unfortunately, not yet, but this feature will be implemented swiftly after the i
 Keep in mind that if you are interested in working on data sets from more than three projects, you will need to have a synthesis proposal. But do not panic! The corresponding Word template is only one page long and your proposal does not undergo a formal approval process. Just state what the additional benefits of aggregating multiple data sets might be. You can find the template in Bexis.
 ### How do I attribute this pipeline?
 This pipeline is citeable through its DOI (see badges directly beneath the header of this page). Please do so if you use the pipeline or parts of it in your own work. If you use data produced through this pipeline, please cite both the data set and this pipeline. If you share the code with someone else, please share the whole project, as separating any project file from the license file is not permitted. For more information, see the pipeline's license file. 
-### I like this project and want to contribute. How to go about it?
-We appreciate your interest and are always happy to incorporate you and your unique skill set in this project. Please get in touch with [MG](https://orcid.org/0000-0002-9027-6750) for more information.
 
 ## Helpers
 <p align="center">
