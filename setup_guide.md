@@ -11,8 +11,8 @@ If you do not have the required version of R installed ...
    2.  In RStudio, go to 'Tools" > 'Global Options ...'. Under 'R Session; R version' click 'Change' and select the required version of R
    3.  Restart RStudio
    
-6. Open the Rproject file (it should open in RStudio); the package for the reproducible environment is downloaded auutomatically
-7. Following its download, renv will prompt that packages recorded in the lockfile are not installed on your system.
+6. Open the Rproject file (it should open in RStudio); the package for the reproducible environment is downloaded automatically
+7. Following its download, renv will prompt that packages recorded in the lockfile are not installed on your system yet.
 8. Type ```renv::restore()```; confirm the prompted dialog with "y".
 9. renv will download and install all required packages.
 10. After all packages have been restored successfully, you are ready to go 🥳
