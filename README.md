@@ -33,7 +33,7 @@ This project is a registered BE synthesis project.
 
 ## The pipeline's main features
 - **Easy to use**: Simply parse the required aggregation information through the provided parameters files. No coding required.
-- **Flexibility:** Biological data comes in many different shapes. We tried to accomodate them all. If you feel that you cannot aggregate your data with the approaches available, please get in touch with us.
+- **Flexibility:** Biological data comes in many different shapes. We tried to accommodate them all. If you feel that you cannot aggregate your data with the approaches available, please get in touch with us.
 - **Easy to deploy**: You will be able to deploy this pipeline on many systems without modifications, as this pipeline adheres to best practice approaches on reproducibility and interoperability.
 - **Easy to debug and feature-expand**: Compressed code, the processing through a few major
 loops, and consistent variables naming facilitate debugging and future feature implementations. In particular in the light of current high-paced discussions about good practice in data processing (e.g. [1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003531) and [2](https://journals.asm.org/doi/full/10.1128/msphere.00355-23)), a flexible framework that can accommodate novel insights with little effort is more than timely.
