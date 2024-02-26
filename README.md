@@ -61,7 +61,12 @@ Unfortunately, not yet, but this feature will be implemented swiftly after the i
 ### I want to use this pipeline for aggregating quite some data sets from the Biodiversity Exploratories. What do I need to consider?
 Keep in mind that if you are interested in working on data sets from more than three projects, you will need to have a synthesis proposal. But do not panic! The corresponding Word template is only one page long and your proposal does not undergo a formal approval process. Just state what the additional benefits of aggregating multiple data sets might be. You can find the template in Bexis.
 ### How do I attribute this pipeline?
-This pipeline is citeable through its DOI (see badges directly beneath the header of this page). Please do so if you use the pipeline or parts of it in your own work. If you use data produced through this pipeline, please cite both the data set and this pipeline. If you share the code with someone else, please share the whole project, as separating any project file from the license file is not permitted. For more information, see the pipeline's license file. 
+
+**Please cite this pipeline as (replace the X.X.X with the actual pipeline version used):**
+
+Glück M., H. A. Thomassen and O. Bossdorf (2024). BEpipeR: a user-friendly, flexible, scalable, and easily expanded pipeline for a streamlined processing of biotic and abiotic data in R. vX.X.X. Zenodo. [https://zenodo.org/records/10683385](https://zenodo.org/doi/10.5281/zenodo.10683384)
+
+Please do so if you use the pipeline or parts of it in your own work. If you use data produced through this pipeline, please cite both the data set and this pipeline. If you share the code with someone else, please share the whole project, as separating any project file from the license file is not permitted. For more information, see the pipeline's license file. 
 
 ## Helpers
 <p align="center">
