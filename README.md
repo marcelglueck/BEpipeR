@@ -69,7 +69,7 @@ Glück M., H. A. Thomassen and O. Bossdorf (2024). BEpipeR: a user-friendly, fle
 Please do so if you use the pipeline or parts of it in your own work. If you use data produced through this pipeline, please cite both the data set and this pipeline. If you share the code with someone else, please share the whole project, as separating any project file from the license file is not permitted. For more information, see the pipeline's license file. 
 
 ### What does the workflow look like?
-The pipeline makes a very complex tasks as easy as possible. It boils down to answering a few questions about your data set. Here is an excerpt of the full workflow that can be obtained from [here](https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_workflow.svg) as vector graphic.
+The pipeline makes a very complex task as easy as possible. It boils down to answering a few questions about your data set. Here is an excerpt of the full workflow that can be obtained from [here](https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_workflow.svg) as vector graphic.
 
 <img align="centre" width="900" height="950" src="https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_workflow_short.png">
 
