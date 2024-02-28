@@ -71,7 +71,7 @@ Please do so if you use the pipeline or parts of it in your own work. If you use
 ### What does the workflow look like?
 The pipeline makes a very complex tasks as easy as possible. It boils down to answering a few questions about your data set. Here is an excerpt of the full workflow that can be obtained from [here](https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_workflow.svg) as vector graphic.
 
-<img align="centre" width="950" height="870" src="https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_workflow_crop.png">
+<img align="centre" width="900" height="950" src="https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_workflow_short.png">
 
 ## Acknowledgements
 People and/or institutions we are indebted to:
