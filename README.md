@@ -6,9 +6,9 @@
 [![DOI](https://zenodo.org/badge/734299181.svg)](https://zenodo.org/doi/10.5281/zenodo.10683384)
 
 ## People involved
-- [Marcel Glück](https://orcid.org/0000-0002-9027-6750) (PI, conceptualization, coding, implementation, maintenance, documentation)
-- [Henri Thomassen](https://orcid.org/0000-0002-9403-1291) (conzeptualization)
-- [Oliver Bossdorf](https://orcid.org/0000-0001-7504-6511) (conzeptualization)
+- [Marcel Glück](https://orcid.org/0000-0002-9027-6750) (PI)
+- [Henri Thomassen](https://orcid.org/0000-0002-9403-1291) 
+- [Oliver Bossdorf](https://orcid.org/0000-0001-7504-6511)
 
 **You are interested in joining? Get in touch with us!**
 
