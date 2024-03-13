@@ -13,6 +13,8 @@
 **You are interested in joining? Get in touch with us!**
 
 ## Updates
+### 13.03.2024
+- We are currently enhancing the pipeline. The three focal points are speed, memory usage and versatility (grassland mode). Version 1.0.0 is approaching! 
 ### 20.02.2024
 - **BEpipeR v0.1.0 has been released!** 🥳 This release is already meant for productive purposes (i.e. it is fully functional with regards to forest plot data). We will fully implement support for grassland plots very soon. That release will also allow you to toggle between forest and grassland mode easily.
 
