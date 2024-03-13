@@ -58,22 +58,15 @@ First, please ensure that the suspicious value found is not a false positive. Th
 This pipeline uses the [renv package](https://rstudio.github.io/renv/articles/renv.html) to restore a reproducible environment we have set up. This means that the package installs all packages needed for an issue-free execution of the pipeline (i.e. the ones that were used to code this pipeline in the first place). For a step-by-step guide, please see [here](setup_guide.md). Installing all required packages like this is highly recommended and we will not try to troubleshoot potential issues caused by installing the required packages manually.
 ### Where can I find the manual?
 We do not provide a comprehensive manual yet. However, very soon, we will submit a large composite data set with 950+ variables to Bexis. As metadata, we will include the data sets summary file that will allow you to fully reproduce the processing. This file is also meant to be a go-to example on how to encode aggregation information through the summary file. This in combination with the file's dictionary should allow you to understand the encoding pretty intuitively. Also, in the script, we provide comments on the reasoning and each step performed throughout. If you want to adopt this framework for your own purposes by adding data sets, see this [schematic workflow](https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_workflow.svg). You also might appreciate this [explanation](output_description.md) of the output produced by this pipeline.
-### Can I already use this pipeline to process grassland data without any modifications?
-Unfortunately, not yet, but this feature will be implemented swiftly after the initial release of the pipeline. In the meantime, you can already start inspecting the grassland data sets you would like to include and enter this information in the data sets summary file. After we have implemented this feature, you will be able to toggle between grassland and forest mode easily.
-### I want to use this pipeline for aggregating quite some data sets from the Biodiversity Exploratories. What do I need to consider?
-Keep in mind that if you are interested in working on data sets from more than three projects, you will need to have a synthesis proposal. But do not panic! The corresponding Word template is only one page long and your proposal does not undergo a formal approval process. Just state what the additional benefits of aggregating multiple data sets might be. You can find the template in Bexis.
-### How do I attribute this pipeline?
+### What does the workflow look like?
+The pipeline makes a very complex task as easy as possible. It boils down to answering a few questions about your data set. A flow chart of the full workflow can be obtained from [here](https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_workflow.svg).
 
+### How do I attribute this pipeline?
 **Please cite this pipeline as (replace the X.X.X with the actual pipeline version used):**
 
 Glück M., H. A. Thomassen and O. Bossdorf (2024). BEpipeR: a user-friendly, flexible, scalable, and easily expanded pipeline for a streamlined processing of biotic and abiotic data in R. vX.X.X. Zenodo. https://zenodo.org/doi/10.5281/zenodo.10683384
 
-Please do so if you use the pipeline or parts of it in your own work. If you use data produced through this pipeline, please cite both the data set and this pipeline. If you share the code with someone else, please share the whole project, as separating any project file from the license file is not permitted. For more information, see the pipeline's license file. 
-
-### What does the workflow look like?
-The pipeline makes a very complex task as easy as possible. It boils down to answering a few questions about your data set. Here is an excerpt of the full workflow that can be obtained from [here](https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_workflow.svg) as vector graphic.
-
-<img align="centre" width="900" height="950" src="https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_workflow_short.png">
+Please do so if you use the pipeline or parts of it in your own work. If you use data produced through this pipeline, please cite both the data set and this pipeline.
 
 ## Acknowledgements
 People and/or institutions we are indebted to:
