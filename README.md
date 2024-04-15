@@ -9,7 +9,7 @@
 
 
 ## Quick-start
-- What the pipeline can do for you: [Features](https://github.com/marcelglueck/BEpipeR?tab=readme-ov-file#what-does-the-current-version-of-the-pipeline-do)
+- What the pipeline can do for you: [Features and functionalities](https://github.com/marcelglueck/BEpipeR?tab=readme-ov-file#what-does-the-current-version-of-the-pipeline-do)
 - How to set up the pipeline on your system: [Setting-up](https://github.com/marcelglueck/BEpipeR/blob/main/setup_guide.md) 
 - How to operate the pipeline and parse processing information: [Operation information](https://github.com/marcelglueck/BEpipeR/blob/main/BEpipeR_workflow.svg)
 - Found a bug? [Report a bug](https://github.com/marcelglueck/BEpipeR/issues)
@@ -30,7 +30,7 @@ generated data can be used as input in many types of environmental association s
 
 This project is a registered Biodiversity Exploratories synthesis project.
 
-## The pipeline's main features
+## Features and functionalities
 ✔️ **Flexibility:** One pipeline, three modes. Switch between forest, grassland, and combined (forest & grassland) mode effortlessly. 
 
 ✔️ **Ease of use:** Simply parse aggregation information through parameters files. No coding required.
@@ -41,7 +41,7 @@ This project is a registered Biodiversity Exploratories synthesis project.
 
 ✔️ **Under active development:** Shape the future of this project by either providing suggestions for implementations or participate by coding.
 
-## What does the current version of the pipeline do?
+### Processing performed
 1. **Data preparation and wrangling:** Template creation, plot locations harmonization, correction of suspicious (NA) values, sub-setting, fallbacks to more basal (taxonomic) levels, data reshaping, normalization by variable (for e.g. sampling effort)
 2. **Quality control:** Multi-mode outlier detection
 3. **Data aggregation:** Both within and across data sets (mean, median, SD, MAD); processing of yearly climate aggregates (incl. the removal of poorly-supported data points)
