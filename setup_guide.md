@@ -9,5 +9,8 @@
    2.  In RStudio, go to 'Tools" > 'Global Options ...'. Under 'R Session; R version' click 'Change' and select the required version of R
    3.  Close RStudio
 4. Open the BEpipeR.Rproj file in RStudio; the package for setting-up the reproducible environment is bootstrapped. Subsequently, it will prompt that packages recorded in the lockfile are not installed on your system yet.
-7. Type ```renv::restore()```; confirm the prompted dialog with "y"; renv will download and install all packages required to a per-project library. After this step has concluded successfully, the pipeline is ready for use.
+7. Type ```renv::restore()```; confirm the prompted dialog with "y"; renv will download and install all packages required to a per-project library.
+8. For the vizualization of plot locations, the borders of Germany must be obtained as gpkg file from [here](https://geodata.ucdavis.edu/gadm/gadm4.1/gpkg/gadm41_DEU.gpkg) and stored as 'Germany_borders.gpkg' in the 'Helpers' directory. 
+
+The pipeline is now ready to be used 🥳
 
