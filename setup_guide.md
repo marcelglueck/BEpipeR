@@ -1,6 +1,6 @@
 # Step by step: Set up the pipeline's reproducible environment
 
-**Important:** Do not modify the files/directories provided, as this might break the pipeline. If you think you might have modified them unintentionally, download the pipeline anew. This guide assumes that you use [RStudio IDE](https://posit.co/products/open-source/rstudio/).
+**Important:** Do not modify the files/directories provided, as this might break the pipeline. If you think you might have modified them unintentionally, download the pipeline anew. This guide assumes that you are connected to the internet and use [RStudio IDE](https://posit.co/products/open-source/rstudio/).
 
 1. Download the desired pipeline release from [here](https://github.com/marcelglueck/BEpipeR/releases).
 2. Unzip the BEpipeR_vX.X.X.zip file.
