@@ -60,7 +60,7 @@ Please do so if you use the pipeline or parts of it in your own work. If you use
 
 ## Acknowledgements
 People and/or institutions we are indebted to:
-- The founders and staff of the [Biodiversity Exploratories](https://www.biodiversity-exploratories.de/en/): for the envisioning, setting up, and maintenance of this research platform.
+- The founders and staff of the [Biodiversity Exploratories](https://www.biodiversity-exploratories.de/en/): For the envisioning, setting up, and maintenance of this research platform.
 - [Executive department on German Copyright Law](https://uni-tuebingen.de/en/facilities/university-library/publishing-research/publishing/copyright-law/), Tübingen University: For assisting in finding a suitable license for this pipeline.
 
 
