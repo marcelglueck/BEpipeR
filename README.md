@@ -1,7 +1,7 @@
 <img align="right" width="170" height="170" src="https://github.com/marcelglueck/BEpipeR/blob/e902703f223bb39e01afaa7ae16f511b60ef39ca/BEpipeR_logo.png">
 
 # BEpipeR: a user-friendly, flexible, scalable, and easily expanded pipeline for a streamlined processing of biotic and abiotic Biodiversity Exploratories data in R  
-[Marcel Glück](https://orcid.org/0000-0002-9027-6750) | [Henri Thomassen](https://orcid.org/0000-0002-9403-1291) | [Oliver Bossdorf](https://orcid.org/0000-0001-7504-6511)
+[Marcel Glück](https://orcid.org/0000-0002-9027-6750) | [Oliver Bossdorf](https://orcid.org/0000-0001-7504-6511) | [Henri Thomassen](https://orcid.org/0000-0002-9403-1291) 
 
 [![Github All Releases](https://img.shields.io/github/downloads/marcelglueck/BEpipeR/total.svg)]() 
 ![GitHub Latest Release)](https://img.shields.io/github/v/release/marcelglueck/BEpipeR) 
