@@ -54,7 +54,7 @@ This project is a registered Biodiversity Exploratories synthesis project.
 ### How do I attribute this pipeline?
 **Please cite this pipeline as (replace the X.X.X with the actual pipeline version used):**
 
-Glück M., H. A. Thomassen and O. Bossdorf (2024). BEpipeR: a user-friendly, flexible, scalable, and easily expanded pipeline for a streamlined processing of biotic and abiotic data in R. vX.X.X. Zenodo. https://zenodo.org/doi/10.5281/zenodo.10683384
+Glück M., O. Bossdorf and H. A. Thomassen (2024). BEpipeR: a user-friendly, flexible, scalable, and easily expanded pipeline for a streamlined processing of biotic and abiotic data in R. vX.X.X. Zenodo. https://zenodo.org/doi/10.5281/zenodo.10683384
 
 Please do so if you use the pipeline or parts of it in your own work. If you use data produced through this pipeline, please cite both the data set and this pipeline.
 
