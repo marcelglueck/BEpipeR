@@ -43,12 +43,12 @@ This project is a registered Biodiversity Exploratories synthesis project.
 ✔️ **Under active development:** Shape the future of this project by either providing suggestions for implementations or participate by coding.
 
 ### Processing performed
-1. **Data preparation and wrangling:** Template creation, plot locations harmonization, correction of suspicious (NA) values, sub-setting, fallbacks to more basal (taxonomic) levels, data reshaping, normalization by variable (for e.g. sampling effort)
+1. **Data preparation and wrangling:** Template creation, plot locations harmonization, correction of suspicious (NA) values, subsetting, fallbacks to more basal (taxonomic) levels, data reshaping, normalization by variable (for e.g. sampling effort)
 2. **Quality control:** Multi-mode outlier detection
 3. **Data aggregation:** Both within and across data sets (mean, median, SD, MAD); processing of yearly climate aggregates (incl. the removal of poorly-supported data points)
 4. **Diversity indices:** Normalization by repeated rarefaction; calculating species richness, Simpson/Shannon-Wiener/Margalef/Menhinick index, ...)
 5. **Post-processing:** Data joining, quality control, variables selection by variance inflation factor (VIF) analyses
-6. **Data export and metadata compilation:** Export of the whole data set composite and all VIF-produced subsets; fetching metadata to the variables produced to assist in preparing the data for publication, submission to BExIS, etc ...
+6. **Data export and metadata compilation:** Export of composite data sets and VIF-produced subsets; fetching metadata to the variables produced to assist in preparing the data for publication, submission to BExIS, etc ...
 
 ## FAQ
 ### How do I attribute this pipeline?
