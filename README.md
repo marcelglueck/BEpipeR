@@ -34,7 +34,7 @@ This project is a registered Biodiversity Exploratories synthesis project.
 ## Features and functionalities
 ✔️ **Flexibility:** One pipeline, three modes. Switch between forest, grassland, and combined (forest & grassland) mode effortlessly. 
 
-✔️ **Ease of use:** Simply parse aggregation information through parameters files. No coding required.
+✔️ **Ease of use:** Simply parse aggregation information through csv parameters files. No coding required.
 
 ✔️ **Customizability:** Easily adopt the pipeline to your own needs by e.g. subsetting the template after creation for your plots of interest.
 
