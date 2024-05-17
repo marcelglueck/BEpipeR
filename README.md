@@ -46,13 +46,13 @@ This project is a registered Biodiversity Exploratories synthesis project.
 1. **Data preparation and wrangling:** Template creation, plot locations harmonization, values correction, subsetting, fallbacks to more basal (taxonomic) levels, data reshaping, normalization by variable (for e.g. sampling effort)
 2. **Quality control:** Multi-mode outlier detection
 3. **Data aggregation:** Both within and across data sets (mean, median, SD, MAD); processing of yearly climate aggregates (incl. the removal of poorly-supported data points)
-4. **Diversity indices:** Normalization by repeated rarefaction; calculating species richness, Simpson/Shannon-Wiener/Margalef/Menhinick index, ...)
-5. **Post-processing:** Data joining, quality control, variables selection by variance inflation factor (VIF) analyses
+4. **Diversity indices:** Normalization by (repeated) rarefaction; calculating species richness, Simpson/Shannon-Wiener/Margalef/Menhinick index, ...)
+5. **Post-processing:** Data joining, quality control, variables selection by variance inflation factor analyses
 6. **Data export and metadata compilation:** Export of composite data sets and VIF-produced subsets; fetching metadata to the variables produced to assist in preparing the data for publication, submission to BExIS, etc ...
 
 ## FAQ
 ### How do I attribute this pipeline?
-**Please cite this pipeline as (replace the X.X.X with the actual pipeline version used):**
+**Please cite this pipeline as (replace X.X.X with the actual pipeline version used):**
 
 Glück M., O. Bossdorf and H. A. Thomassen (2024). BEpipeR: a user-friendly, flexible, scalable, and easily expanded pipeline for a streamlined processing of biotic and abiotic data in R. vX.X.X. Zenodo. https://zenodo.org/doi/10.5281/zenodo.10683384
 
