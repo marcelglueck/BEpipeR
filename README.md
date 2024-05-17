@@ -15,7 +15,7 @@
 - Found a bug? [Report a bug](https://github.com/marcelglueck/BEpipeR/issues)
 
 ## Motivation
-The wealth of biotic and abiotic environmental data generated in the [Biodiversity
+The wealth of (a)biotic environmental data generated in the [Biodiversity
 Exploratories](https://www.biodiversity-exploratories.de/en/) continues to [grow steadily](https://www.bexis.uni-jena.de/ddm/publicsearch/), 
 and so does the effort of implementing always the
 newest data into our statistical frameworks. Unsurprisingly, many BE projects restrict their analyses to a
