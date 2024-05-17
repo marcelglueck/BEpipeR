@@ -38,7 +38,7 @@ This project is a registered Biodiversity Exploratories synthesis project.
 
 ✔️ **Customizability:** Easily adapt the pipeline to your own needs by e.g. subsetting the template for your plots of interest.
 
-✔️ **Deployability:** Effortlessly run this pipeline on both Linux and Windows operation systems thanks to reproducible environments.
+✔️ **Deployability:** Effortlessly run this pipeline on your infrastructure thanks to reproducible environments.
 
 ✔️ **Under active development:** Shape the future of this project by either providing suggestions for implementations or participate by coding.
 
