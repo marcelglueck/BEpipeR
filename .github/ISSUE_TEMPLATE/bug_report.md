@@ -12,7 +12,7 @@ assignees: marcelglueck
 
 **Steps to reproduce**
 - All steps required to fully reproduce your issue on our systems.
-- Please also provide the corresponding row(s) of paramMAIN, and if applicable, paramSUB and paramDW as attachments (see below).
+- Please also provide the corresponding row(s) of paramMAIN, and if applicable paramSUB and paramDW, as attachments (see below).
 - Please do not upload any Biodiversity Exploratories data here. If the issue is with a specific data set, specify the full data set ID and we will fetch it ourselves from BExIS.
 
 **Expected behaviour**
