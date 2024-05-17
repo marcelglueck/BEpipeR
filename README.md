@@ -43,7 +43,7 @@ This project is a registered Biodiversity Exploratories synthesis project.
 ✔️ **Participatory:** Shape the future of this project by either providing suggestions or participate by coding.
 
 ### Processing performed
-1. **Data preparation and wrangling:** Template creation, plot locations harmonization, correction of suspicious (NA) values, subsetting, fallbacks to more basal (taxonomic) levels, data reshaping, normalization by variable (for e.g. sampling effort)
+1. **Data preparation and wrangling:** Template creation, plot locations harmonization, values correction, subsetting, fallbacks to more basal (taxonomic) levels, data reshaping, normalization by variable (for e.g. sampling effort)
 2. **Quality control:** Multi-mode outlier detection
 3. **Data aggregation:** Both within and across data sets (mean, median, SD, MAD); processing of yearly climate aggregates (incl. the removal of poorly-supported data points)
 4. **Diversity indices:** Normalization by repeated rarefaction; calculating species richness, Simpson/Shannon-Wiener/Margalef/Menhinick index, ...)
