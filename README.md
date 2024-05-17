@@ -11,7 +11,7 @@
 ## Quick-start
 - What the pipeline can do for you: [Features and functionalities](https://github.com/marcelglueck/BEpipeR/blob/main/README.md#features-and-functionalities)
 - How to set up the pipeline on your system: [Setting-up](https://github.com/marcelglueck/BEpipeR/blob/main/setup_guide.md) 
-- How to operate the pipeline: Release publication to BEpipeR v1.0.0
+- How to operate the pipeline: Publication to BEpipeR v1.0.0 release
 - Found a bug? [Report a bug](https://github.com/marcelglueck/BEpipeR/issues)
 
 ## Motivation
