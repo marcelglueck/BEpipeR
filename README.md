@@ -51,7 +51,7 @@ This project is a registered Biodiversity Exploratories synthesis project.
 6. **Data export and metadata compilation:** Export of composite data sets and VIF-produced subsets; fetching metadata to the variables produced to assist in preparing the data for publication, submission to BExIS, etc ...
 
 ## Acknowledgements
-People and/or institutions we are indebted to:
+People/institutions we are indebted to:
 - Founders and staff of the [Biodiversity Exploratories](https://www.biodiversity-exploratories.de/en/): For the envisioning, setting up, and maintenance of the research platform.
 - [Executive department on German Copyright Law](https://uni-tuebingen.de/en/facilities/university-library/publishing-research/publishing/copyright-law/), Tübingen University: For assisting in finding a suitable license for this pipeline.
 - [Open Access Publishing Fund](https://uni-tuebingen.de/en/facilities/university-library/publishing-research/publishing/open-access-publication-fund/), Tübingen University: For covering publication fees.
