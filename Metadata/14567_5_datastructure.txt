@@ -1,0 +1,34 @@
+[
+  {
+    "Variables.Id": 3004,
+    "Variables.Label": "EP_Plotid",
+    "Variables.Description": "Plot ID ",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "string"
+  },
+  {
+    "Variables.Id": 3005,
+    "Variables.Label": "TotC",
+    "Variables.Description": "Total carbon concentration",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "double"
+  },
+  {
+    "Variables.Id": 3006,
+    "Variables.Label": "TotN",
+    "Variables.Description": "Total nitrogen concentration",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "double"
+  },
+  {
+    "Variables.Id": 3007,
+    "Variables.Label": "CN",
+    "Variables.Description": "Carbon/nitrogen ratio",
+    "Variables.unit.Name": "percentage",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "double"
+  }
+]

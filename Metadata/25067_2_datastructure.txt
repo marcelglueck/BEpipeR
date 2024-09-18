@@ -1,0 +1,26 @@
+[
+  {
+    "Variables.Id": 3048,
+    "Variables.Label": "EP_Plotid",
+    "Variables.Description": "EP plotid",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "string"
+  },
+  {
+    "Variables.Id": 3049,
+    "Variables.Label": "Seq_var",
+    "Variables.Description": "Sequence variant",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "string"
+  },
+  {
+    "Variables.Id": 3050,
+    "Variables.Label": "Readcount",
+    "Variables.Description": "Illumina read count",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  }
+]

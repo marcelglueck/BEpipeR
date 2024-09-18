@@ -1,0 +1,90 @@
+[
+  {
+    "Variables.Id": 3015,
+    "Variables.Label": "EP_Plotid",
+    "Variables.Description": "EP plotid",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "string"
+  },
+  {
+    "Variables.Id": 3016,
+    "Variables.Label": "spec1",
+    "Variables.Description": "Abundance species 1",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  },
+  {
+    "Variables.Id": 3017,
+    "Variables.Label": "spec2",
+    "Variables.Description": "Abundance species 2",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  },
+  {
+    "Variables.Id": 3018,
+    "Variables.Label": "spec3",
+    "Variables.Description": "Abundance species 3",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  },
+  {
+    "Variables.Id": 3019,
+    "Variables.Label": "spec4",
+    "Variables.Description": "Abundance species 4",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  },
+  {
+    "Variables.Id": 3020,
+    "Variables.Label": "spec5",
+    "Variables.Description": "Abundance species 5",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  },
+  {
+    "Variables.Id": 3021,
+    "Variables.Label": "spec6",
+    "Variables.Description": "Abundance species 6",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  },
+  {
+    "Variables.Id": 3022,
+    "Variables.Label": "spec7",
+    "Variables.Description": "Abundance species 7",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  },
+  {
+    "Variables.Id": 3023,
+    "Variables.Label": "spec8",
+    "Variables.Description": "Abundance species 8",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  },
+  {
+    "Variables.Id": 3024,
+    "Variables.Label": "spec9",
+    "Variables.Description": "Abundance species 9",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  },
+  {
+    "Variables.Id": 3025,
+    "Variables.Label": "spec10",
+    "Variables.Description": "Abundance species 10",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  }
+]

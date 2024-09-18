@@ -1,0 +1,26 @@
+[
+  {
+    "Variables.Id": 3012,
+    "Variables.Label": "EP_Plotid",
+    "Variables.Description": "Plot ID",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "string"
+  },
+  {
+    "Variables.Id": 3013,
+    "Variables.Label": "nspec",
+    "Variables.Description": "Number of fungal species observed",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  },
+  {
+    "Variables.Id": 3014,
+    "Variables.Label": "nobs",
+    "Variables.Description": "Total investigation effort (m3)",
+    "Variables.unit.Name": "cubic meter",
+    "Variables.unit.Description": "volume unit (base unit)",
+    "Variables.dataType.Name": "integer"
+  }
+]

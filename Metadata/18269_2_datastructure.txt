@@ -1,0 +1,34 @@
+[
+  {
+    "Variables.Id": 3008,
+    "Variables.Label": "EP_Plotid",
+    "Variables.Description": "Plot ID",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "string"
+  },
+  {
+    "Variables.Id": 3009,
+    "Variables.Label": "Year",
+    "Variables.Description": "Year",
+    "Variables.unit.Name": "date time",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "integer"
+  },
+  {
+    "Variables.Id": 3010,
+    "Variables.Label": "Species",
+    "Variables.Description": "Species",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "string"
+  },
+  {
+    "Variables.Id": 3011,
+    "Variables.Label": "TreesPerHa",
+    "Variables.Description": "Species density",
+    "Variables.unit.Name": "per hectare",
+    "Variables.unit.Description": "quantity per area unit",
+    "Variables.dataType.Name": "integer"
+  }
+]

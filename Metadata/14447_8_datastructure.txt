@@ -1,0 +1,26 @@
+[
+  {
+    "Variables.Id": 3001,
+    "Variables.Label": "EP_Plotid",
+    "Variables.Description": "Plot ID",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "string"
+  },
+  {
+    "Variables.Id": 3002,
+    "Variables.Label": "pH1",
+    "Variables.Description": "pH measument 1",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "double"
+  },
+  {
+    "Variables.Id": 3003,
+    "Variables.Label": "pH2",
+    "Variables.Description": "pH measument 2",
+    "Variables.unit.Name": "none",
+    "Variables.unit.Description": "none",
+    "Variables.dataType.Name": "double"
+  }
+]
